@@ -1,0 +1,13 @@
+{
+  "name": "PercussionTouch",
+  "short_name": "Percussion",
+  "description": "Professional orchestral percussion MIDI controller",
+  "display": "standalone",
+  "start_url": "./",
+  "theme_color": "#1a0a00",
+  "background_color": "#1a0a00",
+  "icons": [
+    {"src": "icon-192x192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512x512.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}
